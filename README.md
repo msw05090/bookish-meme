@@ -1,4 +1,4 @@
-# Team 7 Group Project 1
+# Team 7 MIST 4610 Group Project 1
 [Sean Dixon]https://github.com/seanDixon04/expert-train.git 
 
 [Manny Walia]https://github.com/msw05090/bookish-meme
@@ -85,7 +85,7 @@ PlayerID (Foreign Key referencing Players)
 # Queries 
 
 Query Matrix
-[Query table.pdf](https://github.com/msw05090/bookish-meme/files/14877311/Query.table.pdf)
+[Query tables 2.pdf](https://github.com/msw05090/bookish-meme/files/14877339/Query.tables.2.pdf)
 
 [Project Queries.pdf](https://github.com/msw05090/bookish-meme/files/14877147/Project.Queries.pdf)
 
