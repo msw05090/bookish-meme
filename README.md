@@ -114,7 +114,8 @@ FROM YouthPlayer
 WHERE AcademyTeam = 'Under-14s' AND MONTH(DateOfBirth) <= 6;
 Youth teams are more likely to have get-togethers and parties for birthdays and the season ends around the middle of the year. This query lists the players who will have a birthday during the season so that plans to celebrate can be made.
 
-Complex
+
+Complex Quieries:
 
 Write a query to list the amount of French players who were injured in the months of May, June, or July
 
