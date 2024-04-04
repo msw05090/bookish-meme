@@ -84,6 +84,9 @@ PlayerID (Foreign Key referencing Players)
 
 # Queries 
 
+Query Matrix
+[Query table.pdf](https://github.com/msw05090/bookish-meme/files/14877311/Query.table.pdf)
+
 [Project Queries.pdf](https://github.com/msw05090/bookish-meme/files/14877147/Project.Queries.pdf)
 
 Simple
