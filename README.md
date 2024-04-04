@@ -78,6 +78,10 @@ Each scouting report pertains to a particular player.
 Connect via a foreign key in the Scouting Reports table:
 PlayerID (Foreign Key referencing Players)
 
+# Data Dictionary 
+
+[Data Dictionary - Sheet1.pdf](https://github.com/msw05090/bookish-meme/files/14877193/Data.Dictionary.-.Sheet1.pdf)
+
 # Queries 
 
 [Project Queries.pdf](https://github.com/msw05090/bookish-meme/files/14877147/Project.Queries.pdf)
